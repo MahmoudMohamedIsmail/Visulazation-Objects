@@ -1,0 +1,15 @@
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\VisulazationPackage.exe.config
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\obj\Debug\VisulazationPackage.csprojResolveAssemblyReference.cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\obj\Debug\VisulazationPackage.Form1.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\obj\Debug\VisulazationPackage.Properties.Resources.resources
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\obj\Debug\VisulazationPackage.csproj.GenerateResource.Cache
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\VisulazationPackage.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\VisulazationPackage.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\Color Mapping.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\Color Mapping.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\obj\Debug\VisulazationPackage.exe
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\obj\Debug\VisulazationPackage.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\MeshLoader.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\MeshLoader.pdb
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\Tao.OpenGl.dll
+c:\users\mahmoud\documents\visual studio 2013\Projects\VisulazationPackage\VisulazationPackage\bin\Debug\Tao.OpenGl.xml
