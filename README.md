@@ -1,5 +1,5 @@
-# Visulazation-Objects
+# visualization-Objects
 
-Load from "Visualization Objects" an object and visulaze it. 
+Load from "visualization Objects" an object and visualize it. 
 
 You can make transformation and coloring "OpenGL".
